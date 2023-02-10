@@ -30,7 +30,7 @@ for i in range(length):
         random_letters = random_letters + random.choice(digital)
     if From == 2:
         random_letters = random_letters + random.choice(letter)
-with open('密码.txt', 'w', encoding='UTF-8') as f:
+with open('passWord.txt', 'w', encoding='UTF-8') as f:
     f.write('为您生成的六位数纯数字密码：' + six_figures)
     f.write('\n')
     f.write('为您生成的六位数混合密码：' + six_mixed)
