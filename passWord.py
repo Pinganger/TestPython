@@ -41,6 +41,5 @@ with open('passWord.txt', 'w', encoding='UTF-8') as f:
     f.write('\n')
 print('密码生成完毕')
 print('密码已保存至当前软件路径下的密码.txt文件中')
-print('请不要轻易的将密码泄露给他人')
-print('谢谢您的使用')
+print('请不要轻易的将密码泄露给他人,谢谢您的使用')
 os.system('@pause')
