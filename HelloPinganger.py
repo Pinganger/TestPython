@@ -4,6 +4,4 @@
 # @Time     ：2023/3/8 15:53
 # @Author   : Pinganger
 
-print ('Hello Pinganger')
-
-# if __name__ == "__main__":
+print('Hello Pinganger')
