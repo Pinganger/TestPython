@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# @FileName ：passwords.py
+# @FileName ：passWords.py
 # @Time     ：2023/3/8 15:55
 # @Author   : Pinganger
 
