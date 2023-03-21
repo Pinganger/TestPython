@@ -87,6 +87,6 @@ desc5_0 = '5_0接口自动化用例通过率为{:.2f}'.format(demo2/demo1)
 print(desc5)
 print(desc5_0)
 # 6、格式化长度
-print("你的信息：姓名是{:^8},年龄为{:^2},性别是{}".format('Zhangsan', 28, '男'))
+print("你的信息：姓名是{:^8},年龄为{:^2},性别是{}".format('ZhangSan', 28, '男'))
 print("你的信息：姓名是{:^8},年龄为{:^2},性别是{}".format('lisi', 36, '男'))
-print("你的信息：姓名是{:^8},年龄为{:^2},性别是{}".format('Wangwu', 100, '女'))
+print("你的信息：姓名是{:^8},年龄为{:^2},性别是{}".format('WangWu', 100, '女'))
