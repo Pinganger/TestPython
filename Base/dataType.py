@@ -86,6 +86,5 @@ desc5 = '5接口自动化用例通过率为{:.2f}'.format(98.67832)
 desc5_0 = '5_0接口自动化用例通过率为{:.2f}'.format(demo2/demo1)
 print(desc5)
 print(desc5_0)
-
-
+# 6、格式化长度
 
