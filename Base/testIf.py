@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # ========================================
-# @FileName ：test.py
+# @FileName ：testIf.py
 # @Time     ：2023/4/12 15:27
 # @Author   : Pinganger
 # @Email    ：yaopinghua673@outlook.com
@@ -41,9 +41,9 @@ age += 5
 
 # guess_age = 28
 # guess = int(input("请输入你猜测的年龄:"))
-# if guess_age > guess:
+# if guess > guess_age:
 #     print("欧沃，猜大了！")
-# elif guess_age < guess:
+# # elif guess < guess_age:
 #     print("欧沃，猜小了！")
 # else:
 #     print("恭喜，你猜对了！")
